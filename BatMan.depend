@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1574785868 source:/home/sawy/coding/BatMan/main.cpp
+	<iostream>
+	<pthread.h>
+	<string>
+
